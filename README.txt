@@ -1,4 +1,4 @@
-``scrapy-redirect`` restricts authorized HTTP redirections to the website homepage.
+``scrapy-redirect`` restricts authorized HTTP redirections to the website start_urls
 
 Why?
 ----
